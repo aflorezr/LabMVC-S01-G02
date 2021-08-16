@@ -1,4 +1,11 @@
 #ISIS1225 - Estructura de un proyecto
+Sofia Torres Ramírez
+20
+storres21@uniandes.edu.co
+
+Margarita Florez Ruiz
+201922242
+a.florezr@uniandes.edu.co
 
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
 
